@@ -43,7 +43,12 @@ Clear all data easily and view app information in a dedicated screen.
 ---
 
 ## Screenshots (Coming Soon)
-> I will add screenshots of the app's Welcome, Home, and Journal Entry screens soon.
+![Welcome Screen](./Welcome.jpg)
+![Home Screen](./home.jpg)
+![New Entry](./entry.jpg)
+![Journal History](./history.jpg)
+![Settings](./settings.jpg)
+
 
 
 ---
