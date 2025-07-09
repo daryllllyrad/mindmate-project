@@ -42,7 +42,7 @@ Clear all data easily and view app information in a dedicated screen.
 
 ---
 
-## Screenshots (Coming Soon)
+## Screenshots 
 <img src="./Welcome.jpg" alt="Home Screen" width="250"/>
 <img src="./home.jpg" alt="Home Screen" width="250"/>
 <img src="./entry.jpg" alt="Home Screen" width="250"/>
