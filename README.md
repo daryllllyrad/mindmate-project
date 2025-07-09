@@ -43,13 +43,11 @@ Clear all data easily and view app information in a dedicated screen.
 ---
 
 ## Screenshots (Coming Soon)
-![Welcome Screen](./Welcome.jpg)
-![Home Screen](./home.jpg)
-![New Entry](./entry.jpg)
-![Journal History](./history.jpg)
-![Settings](./settings.jpg)
-
-
+<img src="./Welcome.jpg" alt="Home Screen" width="250"/>
+<img src="./home.jpg" alt="Home Screen" width="250"/>
+<img src="./entry.jpg" alt="Home Screen" width="250"/>
+<img src="./history.jpg" alt="Home Screen" width="250"/>
+<img src="./settings.jpg" alt="Home Screen" width="250"/>
 
 ---
 
